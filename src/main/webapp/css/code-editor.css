@@ -1,0 +1,19 @@
+/****************************************************************
+ *																*		
+ * 						      							*
+ *                        							*
+ *       		  努力创建完善、持续更新插件以及模板			*
+ * 																*
+****************************************************************/
+.editor-header {
+	margin-top: -10px;
+}
+#editor { 
+    height: 525px;
+    width: 100%;
+	border: 1px solid #DDD;
+	border-radius: 4px;
+	border-bottom-right-radius: 0px;
+	margin-bottom: 100px;
+	margin-top: 25px;
+}
